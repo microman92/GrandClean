@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://grandclean.uz/ru/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://grandclean.uz/ru/index.html" />
+    <xhtml:link rel="alternate" hreflang="uz" href="https://grandclean.uz/uz/index.html" />
+  </url>
+  <url>
+    <loc>https://grandclean.uz/ru/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://grandclean.uz/ru/services.html" />
+    <xhtml:link rel="alternate" hreflang="uz" href="https://grandclean.uz/uz/services.html" />
+  </url>
+</urlset>
